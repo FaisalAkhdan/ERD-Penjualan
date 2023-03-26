@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-26T13:58:25.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="k3lpqDMkfrUP-PfAAtTj" version="21.1.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-26T14:01:34.112Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="DUZOlGRmCfon4JY0xjwz" version="21.1.1" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1035" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -330,10 +330,10 @@
         <mxCell id="Ro7XwA6oylQ9fx85rrFd-54" value="Update Sistem" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1241" y="279" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ro7XwA6oylQ9fx85rrFd-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ro7XwA6oylQ9fx85rrFd-55" value="Pengawasan Teknis" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1243" y="353" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ro7XwA6oylQ9fx85rrFd-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Ro7XwA6oylQ9fx85rrFd-56" value="Sistem Arsitektur" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1242" y="433" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ro7XwA6oylQ9fx85rrFd-57" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
